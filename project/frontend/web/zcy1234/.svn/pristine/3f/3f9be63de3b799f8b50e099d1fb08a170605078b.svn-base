@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101300486","appkey":"1d8f840b404e3b6f433165baa0a2798a","callback":"http://www.project.com/zcy1234/1/callback.php","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
